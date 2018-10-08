@@ -16,12 +16,12 @@ function johnLennonFacts(facts){
   return array2;
 }
 
-//function iLoveTheBeatles(number){
-  //var i = 0;
-  //var array3 = [];
- // do {
-   // array3.push('I love the Beatles!');
- // }
- //   while (i<15);
-//  return array3;
-//}
+function iLoveTheBeatles(number){
+  var i = 0;
+  var array3 = [];
+  do {
+    array3.push('I love the Beatles!');
+  }
+    while (i<15);
+  return array3;
+}
