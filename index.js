@@ -24,4 +24,4 @@ function johnLennonFacts(facts){
  // }
  //   while (i<15);
 //  return array3;
-}
+//}
